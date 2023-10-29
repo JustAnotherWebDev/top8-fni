@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Fatal Fighter";
+  src: url("/fonts/Fatal Fighter.otf");
+}
+
+@font-face {
+  font-family: "Rheiborn Sans Clean";
+  src: url("/fonts/Rheiborn Sans Clean.otf");
+}
+
+* {
+  @apply font-description bg-gray-700 text-white w-full select-none;
+}
+
+#main {
+  @apply flex flex-col justify-center items-center min-h-screen max-w-4xl mx-auto gap-2 py-2;
+}
+
+input, select, button {
+  @apply rounded-md h-8 bg-gray-800 px-2;
+}
+
+button:disabled {
+  @apply bg-gray-600;
+}
+
+select {
+  @apply border-transparent border-r-8;
+}
+
+canvas {
+  @apply w-full bg-gray-800 h-fit;
+}
