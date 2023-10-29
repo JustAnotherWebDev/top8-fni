@@ -4,7 +4,7 @@ const Canvas = props => {
   const { details, finalists } = props
   const canvasRef = useRef(null)
   const [isDisabled, setDisabled] = useState(true)
-  const characters = finalists.map(finalist => `/src/assets/characters/${finalist.character}.png`)
+  const characters = finalists.map(finalist => `/images/characters/${finalist.character}.png`)
   const players = finalists.map(finalist => {
     const { social, name } = finalist
     return { social, name }
@@ -36,7 +36,7 @@ const Canvas = props => {
   const handleImage = async () => {
     const canvas = canvasRef.current
     const context = canvas.getContext("2d")
-    const images = await preloadImages(["/src/assets/foreground.png", ...characters, "/src/assets/shadow.png"])
+    const images = await preloadImages(["/images/foreground.png", ...characters, "/images/shadow.png"])
 
     // CLEAN
     context.clearRect(0,0,canvas.width, canvas.height)
