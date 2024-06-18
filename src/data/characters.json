@@ -1,90 +1,266 @@
 [
   {
     "id": "aki01",
-    "name": "A.K.I."
+    "name": "A.K.I. (1)"
+  },
+  {
+    "id": "aki02",
+    "name": "A.K.I. (2)"
+  },
+  {
+    "id": "aki03",
+    "name": "A.K.I. (3)"
   },
   {
     "id": "akuma01",
-    "name": "Akuma"
+    "name": "Akuma (1)"
+  },
+  {
+    "id": "akuma02",
+    "name": "Akuma (2)"
+  },
+  {
+    "id": "akuma03",
+    "name": "Akuma (3)"
   },
   {
     "id": "blanka01",
-    "name": "Blanka"
+    "name": "Blanka (1)"
+  },
+  {
+    "id": "blanka02",
+    "name": "Blanka (2)"
+  },
+  {
+    "id": "blanka03",
+    "name": "Blanka (3)"
   },
   {
     "id": "cammy01",
-    "name": "Cammy"
+    "name": "Cammy (1)"
+  },
+  {
+    "id": "cammy02",
+    "name": "Cammy (2)"
+  },
+  {
+    "id": "cammy03",
+    "name": "Cammy (3)"
   },
   {
     "id": "chunli01",
-    "name": "Chun-Li"
+    "name": "Chun-Li (1)"
+  },
+  {
+    "id": "chunli02",
+    "name": "Chun-Li (2)"
+  },
+  {
+    "id": "chunli03",
+    "name": "Chun-Li (3)"
   },
   {
     "id": "deejay01",
-    "name": "Dee Jay"
+    "name": "Dee Jay (1)"
+  },
+  {
+    "id": "deejay02",
+    "name": "Dee Jay (2)"
+  },
+  {
+    "id": "deejay03",
+    "name": "Dee Jay (3)"
   },
   {
     "id": "dhalsim01",
-    "name": "Dhalsim"
+    "name": "Dhalsim (1)"
+  },
+  {
+    "id": "dhalsim02",
+    "name": "Dhalsim (2)"
+  },
+  {
+    "id": "dhalsim03",
+    "name": "Dhalsim (3)"
   },
   {
     "id": "ed01",
-    "name": "Ed"
+    "name": "Ed (1)"
+  },
+  {
+    "id": "ed02",
+    "name": "Ed (2)"
+  },
+  {
+    "id": "ed03",
+    "name": "Ed (3)"
   },
   {
     "id": "ehonda01",
-    "name": "E. Honda"
+    "name": "E. Honda (1)"
+  },
+  {
+    "id": "ehonda02",
+    "name": "E. Honda (2)"
+  },
+  {
+    "id": "ehonda03",
+    "name": "E. Honda (3)"
   },
   {
     "id": "guile01",
-    "name": "Guile"
+    "name": "Guile (1)"
+  },
+  {
+    "id": "guile02",
+    "name": "Guile (2)"
+  },
+  {
+    "id": "guile03",
+    "name": "Guile (3)"
   },
   {
     "id": "jamie01",
-    "name": "Jamie"
+    "name": "Jamie (1)"
+  },
+  {
+    "id": "jamie02",
+    "name": "Jamie (2)"
+  },
+  {
+    "id": "jamie03",
+    "name": "Jamie (3)"
   },
   {
     "id": "jp01",
-    "name": "JP"
+    "name": "JP (1)"
+  },
+  {
+    "id": "jp02",
+    "name": "JP (2)"
+  },
+  {
+    "id": "jp03",
+    "name": "JP (3)"
   },
   {
     "id": "juri01",
-    "name": "Juri"
+    "name": "Juri (1)"
+  },
+  {
+    "id": "juri02",
+    "name": "Juri (2)"
+  },
+  {
+    "id": "juri03",
+    "name": "Juri (3)"
   },
   {
     "id": "ken01",
-    "name": "Ken"
+    "name": "Ken (1)"
+  },
+  {
+    "id": "ken02",
+    "name": "Ken (2)"
+  },
+  {
+    "id": "ken03",
+    "name": "Ken (3)"
   },
   {
     "id": "kimberly01",
-    "name": "Kimberly"
+    "name": "Kimberly (1)"
+  },
+  {
+    "id": "kimberly02",
+    "name": "Kimberly (2)"
+  },
+  {
+    "id": "kimberly03",
+    "name": "Kimberly (3)"
   },
   {
     "id": "lily01",
-    "name": "Lily"
+    "name": "Lily (1)"
+  },
+  {
+    "id": "lily02",
+    "name": "Lily (2)"
+  },
+  {
+    "id": "lily03",
+    "name": "Lily (3)"
   },
   {
     "id": "luke01",
-    "name": "Luke"
+    "name": "Luke (1)"
+  },
+  {
+    "id": "luke02",
+    "name": "Luke (2)"
+  },
+  {
+    "id": "luke03",
+    "name": "Luke (3)"
   },
   {
     "id": "manon01",
-    "name": "Manon"
+    "name": "Manon (1)"
+  },
+  {
+    "id": "manon02",
+    "name": "Manon (2)"
+  },
+  {
+    "id": "manon03",
+    "name": "Manon (3)"
   },
   {
     "id": "marisa01",
-    "name": "Marisa"
+    "name": "Marisa (1)"
+  },
+  {
+    "id": "marisa02",
+    "name": "Marisa (2)"
+  },
+  {
+    "id": "marisa03",
+    "name": "Marisa (3)"
   },
   {
     "id": "rashid01",
-    "name": "Rashid"
+    "name": "Rashid (1)"
+  },
+  {
+    "id": "rashid02",
+    "name": "Rashid (2)"
+  },
+  {
+    "id": "rashid03",
+    "name": "Rashid (3)"
   },
   {
     "id": "ryu01",
-    "name": "Ryu"
+    "name": "Ryu (1)"
+  },
+  {
+    "id": "ryu02",
+    "name": "Ryu (2)"
+  },
+  {
+    "id": "ryu03",
+    "name": "Ryu (3)"
   },
   {
     "id": "zangief01",
-    "name": "Zangief"
+    "name": "Zangief (1)"
+  },
+  {
+    "id": "zangief02",
+    "name": "Zangief (2)"
+  },
+  {
+    "id": "zangief03",
+    "name": "Zangief (3)"
   }
 ]
