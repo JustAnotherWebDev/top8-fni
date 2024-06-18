@@ -4,6 +4,10 @@
     "name": "A.K.I."
   },
   {
+    "id": "akuma01",
+    "name": "Akuma"
+  },
+  {
     "id": "blanka01",
     "name": "Blanka"
   },
@@ -22,6 +26,10 @@
   {
     "id": "dhalsim01",
     "name": "Dhalsim"
+  },
+  {
+    "id": "ed01",
+    "name": "Ed"
   },
   {
     "id": "ehonda01",
