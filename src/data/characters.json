@@ -212,6 +212,14 @@
     "name": "M. Bison (2)"
   },
   {
+    "id": "mai01",
+    "name": "Mai (1)"
+  },
+  {
+    "id": "mai02",
+    "name": "Mai (2)"
+  },
+  {
     "id": "manon01",
     "name": "Manon (1)"
   },
@@ -258,6 +266,14 @@
   {
     "id": "ryu03",
     "name": "Ryu (3)"
+  },
+  {
+    "id": "terry01",
+    "name": "Terry (1)"
+  },
+  {
+    "id": "terry02",
+    "name": "Terry (2)"
   },
   {
     "id": "zangief01",
